@@ -17,7 +17,9 @@ form {
   margin-top: 40px;
 }
 
-input, textarea, button {
+input,
+textarea,
+button {
   display: block;
   padding: 8px;
   margin-bottom: 8px;
@@ -40,9 +42,25 @@ button:hover {
   background-color: #27ae60;
 }
 
-.sucess-message {
+.success-message {
   background-color: #27ae60;
-padding: 16px;
-color: white;
-display: none;
+  padding: 16px;
+  color: white;
+  display: none;
+}
+
+.error-message {
+  font-size: 12px;
+  padding: 8px;
+  background-color: red;
+  color: white;
+  margin-bottom: 8px;
+  display: none;
+}
+
+input.error {
+  color: red;
+  border-color: red;
+  outline-color: red;
+
 }

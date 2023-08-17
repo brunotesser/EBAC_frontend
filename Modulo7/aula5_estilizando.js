@@ -14,10 +14,12 @@ color: white;
 }
 
 AGORA NO AULA4.JS:
-Acrescentar <b> no montante que criamos no aula4.js
-Trocar o alert(mensagemSucesso); para document.querySelector("suceess-message").innerHTML
-Excluir linha <p> no .html
-No CSS colocar dentro do .sucess-message {display:none}
+- Acrescentar <b> no montante que criamos no aula4.js
+- Trocar o alert(mensagemSucesso); para document.querySelector("suceess-message").innerHTML
+- Excluir linha <p> no .html
+- No CSS colocar dentro do .sucess-message {display:none}
+- 
+
 
 
 
