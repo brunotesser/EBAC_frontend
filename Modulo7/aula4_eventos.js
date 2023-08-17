@@ -24,9 +24,9 @@ form.addEventListener("submit", function (e) {
   formValido = validaNome(nomeBeneficiario.value)
   const numeroContaBeneficiario = document.getElementById("numero-conta");
   const valorDeposito = document.getElementById("valor-deposito");
-  const mensagemSucesso = `Montade de: ${valorDeposito.value} depositado para o cliente: ${nomeBeneficiario.value} - conta: ${numeroContaBeneficiario.value}`;
+  const mensagemSucesso = `Montade de: <b>${valorDeposito.value}</b> depositado para o cliente: <b>${nomeBeneficiario.value}</b>  - conta: <b>${numeroContaBeneficiario.value}</b>`;
   if (formValido) {     //aqui vai retornar um true or false
-    alert(mensagemSucesso);
+    document.querySelector('sucess-message').innerHTML = mensagemSucesso;  //aqui é para escrever um conteúdo HTML no JS
   } else {
     alert("O nome não está completo");
   }

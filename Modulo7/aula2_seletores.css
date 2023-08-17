@@ -39,3 +39,10 @@ button {
 button:hover {
   background-color: #27ae60;
 }
+
+.sucess-message {
+  background-color: #27ae60;
+padding: 16px;
+color: white;
+display: none;
+}
