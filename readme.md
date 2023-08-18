@@ -1,8 +1,6 @@
 <h3>Módulo 6 - Fundamentos do JavaScript (Sintaxe, Variaveis, Funções, etc);</h3>
 <h3>Módulo 7 - IntegrandoHTML com JS (DOM, Seletores, Eventos, Forms, etc);</h3>
-<h3>Módulo 8 - Criando PROJETO 2 - Calculadora de médias;</h3>
-<a href="https://brunot-projeto-calculadora-medias.vercel.app/"> Projeto M8 Calcular Média</a>
-
+<h3>Módulo 8 - <a href="https://brunot-projeto-calculadora-medias.vercel.app/">Criando PROJETO 2 - Calculadora de médias;</a></h3>
 <h3>Módulo 9 -</h3>
 
 <h1> Documentação </h1>
