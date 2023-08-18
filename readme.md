@@ -4,7 +4,7 @@
 <h3>Task Módulo 8 - <a href="https://brunotask-projeto2-tarefa-ebac.vercel.app/">Criando Agenda de Contato;</a></h3>
 <h3>Módulo 9 - <a href="https://brunovini-jquery-galeria-fotos.vercel.app/">Conhecendo o jQuery, add imagem por URL;</h3>
 <h3>Task Módulo 9 - <a href="https://brunovini-exercicio-jquery.vercel.app/">Criando TO DO LIST;</a></h3>
-<h3>Módulo 10 -
+<h3>Módulo 10 - Plugins jQuery 
 
 
 
