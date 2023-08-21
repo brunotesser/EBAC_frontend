@@ -1,7 +1,0 @@
-/*
-
-- Abrir o PIXABAY.com 
- 
-
-
-*/
