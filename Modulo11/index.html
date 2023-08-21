@@ -17,9 +17,12 @@
       <h1>EBAC NEWS</h1>
       <form>
         <input type="search" placeholder="Busque no site">
-        <button type="submit">Pesquisar</button>t
+        <button type="submit">Pesquisar</button>
       </form>
 
+    </div>
+    <div class="botao-menu">
+      <button type="button">Abrir Menu</button>
     </div>
     <nav class="container">
       <ul class="menu">
@@ -123,7 +126,15 @@
   </div>
 
 
-
+  <script src="https://code.jquery.com/jquery-3.7.0.min.js"
+    integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
+    <script>
+      $(document).ready(function() {
+        $('.botao-menu button').click(function(){
+          $('.menu').slideToggle();
+        })
+      })
+    </script>
 </body>
 
 </html>
