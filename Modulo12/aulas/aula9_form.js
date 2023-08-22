@@ -1,6 +1,6 @@
 /*
 
-
+Nesta aula aprendemos como utilizar a classe do bottstrap nos inputs
 
 
 
