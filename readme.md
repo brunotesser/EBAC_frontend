@@ -7,9 +7,9 @@
 <h3>Módulo 10 - <a href="https://ebac-motors-projeto-gx581mqlv-brunotesser.vercel.app/"> EBAC MOTORS</a> Treinando Plugins jQuery;</h3>
 <h3>Task Módulo 10 - <a href="https://brunot-mask-cpf-5pwj8lnp8-brunotesser.vercel.app/"> Form Usando Mask jQuery CEP_CPF; </h3>
 <h3> Módulo 11 - Fundamentos do CSS Responsivo; </h3>
-<h3>Task Módulo 11 - </h3>
+<h3> Task Módulo 11 - </h3>
 <h3> Módulo 12 - Fundamentos do Bootstrap; </h3>
-<h3>Task Módulo 12 - ; </h3>
+<h3> Task Módulo 12 - ; </h3>
 <h3> Módulo 13 - Bootstrap Avançado; </h3>
 
 
