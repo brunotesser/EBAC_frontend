@@ -11,6 +11,7 @@
 <h3> Módulo 12 - Fundamentos do Bootstrap; </h3>
 <h3> Task Módulo 12 - ; </h3>
 <h3> Módulo 13 - Bootstrap Avançado; </h3>
+<h3> Task Módulo 13 - <a href="https://brunot-task-bootstrap.vercel.app/"> Tabela / Grid / Card usando Bootstrap; </h3>
 
 
 
