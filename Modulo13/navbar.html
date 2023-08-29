@@ -18,7 +18,7 @@
 
     section {
       height: 100vh;
-      background-color: #ccc;
+      background-color: #fff;
       padding-top: 70px;
     }
 
@@ -59,27 +59,44 @@
       </div>
     </div>
   </header>
-  <div data-bs-spy="scroll" data-bs-target="#cabecalho">
-    <section id="inicio">
-      <h2>Início</h2>
-    </section>
-    <section id="produtos">
-      <h2>Produtos</h2>
-      <div class="container">
-        <nav class="nav nav-tabs">
-          <button class="nav-link" type="button">Eletrônicos</button>
-          <button class="nav-link" type="button">Moda Masculina</button>
-          <button class="nav-link" type="button">Moda Feminina</button>
+  <div class="container">
+    <div data-bs-spy="scroll" data-bs-target="#cabecalho">
+      <section id="inicio">
+        <h2>Início</h2>
+      </section>
+      <section id="produtos">
+        <h2>Produtos</h2>
+        <div class="container">
+          <nav class="nav nav-tabs">
+            <button data-bs-toggle="tab" data-bs-target="#aba1" class="nav-link active"
+              type="button">Eletrônicos</button>
+            <button data-bs-toggle="tab" data-bs-target="#aba2" class="nav-link" type="button">Moda Masculina</button>
+            <button data-bs-toggle="tab" data-bs-target="#aba3" class="nav-link" type="button">Moda Feminina</button>
+          </nav>
+          <div class="tab-content">
+            <div class="tab-pane active" id="aba1">
+              Conteúdo da aba Eletrônicos
+            </div>
+            <div class="tab-pane" id="aba2">
+              Conteúdo da aba Moda Masculina
+            </div>
+            <div class="tab-pane" id="aba3">
+              Conteúdo da aba Moda Feminina
+            </div>
 
-        </nav>
-      </div>
-    </section>
-    <section id="promocoes">
-      <h2>Promoções</h2>
-    </section>
-    <section id="contato">
-      <h2>Contato</h2>
-    </section>
+          </div>
+
+
+          </nav>
+        </div>
+      </section>
+      <section id="promocoes">
+        <h2>Promoções</h2>
+      </section>
+      <section id="contato">
+        <h2>Contato</h2>
+      </section>
+    </div>
   </div>
 
   <script src="lib/bootstrap.bundle.min.js"></script>
