@@ -1,3 +1,4 @@
+<h3>Módulo 5 - <a href="https://projeto1-task.vercel.app/">PROJETO 1 - Landing Page - Anime;</h3>
 <h3>Módulo 6 - Fundamentos do JavaScript (Sintaxe, Variaveis, Funções, etc);</h3>
 <h3>Módulo 7 - IntegrandoHTML com JS (DOM, Seletores, Eventos, Forms, etc);</h3>
 <h3>Módulo 8 - <a href="https://brunot-projeto-calculadora-medias.vercel.app/">PROJETO 2 - Calculadora de médias;</a></h3>
