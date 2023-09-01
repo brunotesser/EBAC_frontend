@@ -1,6 +1,6 @@
 <h3>Módulo 6 - Fundamentos do JavaScript (Sintaxe, Variaveis, Funções, etc);</h3>
 <h3>Módulo 7 - IntegrandoHTML com JS (DOM, Seletores, Eventos, Forms, etc);</h3>
-<h3>Módulo 8 - <a href="https://brunot-projeto-calculadora-medias.vercel.app/">Criando PROJETO 2 - Calculadora de médias;</a></h3>
+<h3>Módulo 8 - <a href="https://brunot-projeto-calculadora-medias.vercel.app/">PROJETO 2 - Calculadora de médias;</a></h3>
 <h3>Task Módulo 8 - <a href="https://brunotask-projeto2-tarefa-ebac.vercel.app/">Criando Agenda de Contato;</a></h3>
 <h3>Módulo 9 - <a href="https://brunovini-jquery-galeria-fotos.vercel.app/">Conhecendo o jQuery, add imagem por URL;</h3>
 <h3>Task Módulo 9 - <a href="https://brunovini-exercicio-jquery.vercel.app/">Criando TO DO LIST;</a></h3>
