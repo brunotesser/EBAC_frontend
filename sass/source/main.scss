@@ -1,4 +1,5 @@
 $corPrincipal: #eee;
+$corSecundaria: #111;
 
 body {
   background-color: $corPrincipal;
@@ -6,8 +7,23 @@ body {
 
 header {
   background-color: $corPrincipal;
+
+  h1 {
+    color: $corSecundaria;
+  }
 }
 
-header h1 {
-  color: red;
+button {
+  padding: 16px;
+  background-color: $corSecundaria;
+  color: $corPrincipal;
+
+  &:hover {
+    background-color: rgb(56, 56, 0);
+  }
+
+  &.sucesso {
+    background-color: green;
+  }
+
 }
