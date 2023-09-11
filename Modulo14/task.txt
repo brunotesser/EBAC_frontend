@@ -1,0 +1,5 @@
+Exercício do Módulo 14
+
+> Criar outra landing page a partir do layout que construimos durante o modulo11
+> O tema ficar no seu critério
+> Publicar na Vercel e enviar o link através da plataforma
