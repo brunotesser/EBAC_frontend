@@ -33,3 +33,6 @@
 <h1> Direito de Imagens </h1>
 <p> Importante saber que tem muitas imagens com direitos autorais, então não se deve pegar qualquer coisa na internet, saiba sites que te possibilitam o uso, como: unsplash, pixabay, etc; </p>
 <p> Outra coisa é o uso de deixar a imagem mais leva, um site ótimo é o tinypng.com; </p>
+
+<h1> Paletas de Cores </h1>
+<p> flatuicolors.com </p>

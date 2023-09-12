@@ -1,7 +1,52 @@
-@use 'config/reset.scss';
-@use 'config/cores.scss';
-@use 'secoes/produtos.scss';
+@use 'config/reset';
+
+@mixin elementoForm() {
+  padding: 8px;
+  display: block;
+  width: 100%;
+  margin-bottom: 16px;
+}
 
 body {
-  background-color: cores.$corDeFundo;
+  background-color: #eee;
 }
+
+.container {
+  max-width: 1024px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+header {
+  padding: 16 0;
+  background-color: yellow;
+text-align: center;
+}
+
+.form-container {
+  height: calc(100vh - 70px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  form {
+    width: 100%;
+    max-width: 480px;
+    margin-top: 40px;
+
+    input {
+      @include elementoForm();
+      background-color: transparent;
+      border: none;
+      border-bottom: 1px solid #000;
+    }
+
+    button {
+      @include elementoForm();
+    }
+
+
+  }
+}
+
