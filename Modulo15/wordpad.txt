@@ -1,1 +1,7 @@
 As aulas desse modulo estão sendo aplicadas na pasta SASS
+
+TASK:
+
+- Converter o estilo do projeto disponibilizado na plataforma para o SASS
+- Utilizar os recursos do SASS que aprendemos durante o módulo, como as variaveis e os modulos
+- Criar uma branch chamada exercicio_sass no repositório do curso, armazenar os arquivos SASS nesta branch e enviar o link do repositório através da plataforma
