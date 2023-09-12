@@ -1,24 +1,3 @@
-body {
-  background-color: #eee;
-}
 
-header {
-  background-color: #eee;
-}
-header h1 {
-  color: #111;
-}
-
-button {
-  padding: 16px;
-  background-color: #111;
-  color: #eee;
-}
-button:hover {
-  background-color: rgb(56, 56, 0);
-}
-button.sucesso {
-  background-color: green;
-}
 
 /*# sourceMappingURL=main.css.map */
