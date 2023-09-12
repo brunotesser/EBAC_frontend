@@ -1,4 +1,11 @@
 * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Roboto, sans-serif;
+}
+
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -77,26 +84,25 @@ section {
 }
 
 .product-button:hover {
-  background-color: #4cd137;
+  background-color: #44bd32;
 }
 
 @media screen and (max-width: 1023px) {
   .container {
-      max-width: 80%;
+    max-width: 80%;
   }
-
   .products {
-      grid-template-columns: repeat(2, 48.5%);
-      column-gap: 3%;
+    grid-template-columns: repeat(2, 48.5%);
+    column-gap: 3%;
   }
 }
-
 @media screen and (max-width: 767px) {
   .products {
-      display: block;
+    display: block;
   }
-
-  .product-item  {
-      margin-bottom: 32px;
+  .product-item {
+    margin-bottom: 32%;
   }
 }
+
+/*# sourceMappingURL=main.css.map */
