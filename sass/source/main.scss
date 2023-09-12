@@ -92,7 +92,7 @@ section {
 }
 
 .product-button:hover {
-  background-color: variaveis.$corSecundaria;
+  background-color: darken(variaveis.$corSecundaria, 15%);  
 }
 
 @media screen and (max-width: variaveis.$tablet) {
