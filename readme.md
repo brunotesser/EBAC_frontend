@@ -17,7 +17,7 @@
 <h3> Task Módulo 14 - <a href="https://brunov-taskmodulo14.vercel.app/"> Tarefa Landing Page Cafeteria ; </h3>
 <h3> Módulo 15 - Introdução ao SASS ; </h3>
 <h3> Task Módulo 15 - Formatar projeto para o SASS (classes e variaveis) ; </h3>
-<h3> Módulo 16 - a  ; </h3>
+<h3> Módulo 16 - Automação de tarefas com Gulp; </h3>
 
 
 
