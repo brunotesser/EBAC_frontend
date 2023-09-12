@@ -16,6 +16,7 @@
 <h3> Módulo 14 - <a href="https://brunov-projeto3-restaurante.vercel.app/"> Projeto 3 - Site para Restaurante ; </h3>
 <h3> Task Módulo 14 - <a href="https://brunov-taskmodulo14.vercel.app/"> Tarefa Landing Page Cafeteria ; </h3>
 <h3> Módulo 15 - Introdução ao SASS ; </h3>
+<h3> Task Módulo 15 - Formatar projeto para o SASS (classes e variaveis) ; </h3>
 <h3> Módulo 16 - a  ; </h3>
 
 
